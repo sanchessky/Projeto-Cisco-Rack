@@ -1,3 +1,11 @@
+Autor: Thiago Sanches<br>
+Instagram: https://www.instagram.com/espetacular_sanches<br>
+LinkedIn Thiago Sanches: https://www.linkedin.com/in/thiagosanches07/<br>
+Github: https://github.com/sanchessky<br>
+Data de criação: 04/07/2024<br>
+
+
+
 Limpando as configurações residuais dos outros grupos do Switch 3560.
 
 ```python
