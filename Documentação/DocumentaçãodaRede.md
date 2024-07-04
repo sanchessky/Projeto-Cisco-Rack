@@ -1,3 +1,12 @@
+Autor: Thiago Sanches
+Instagram: https://www.instagram.com/espetacular_sanches
+LinkedIn Thiago Sanches: https://www.linkedin.com/in/thiagosanches07/
+Github: https://github.com/sanchessky
+Data de criação: 04/07/2024
+
+
+
+
 1- Nome dos Switches, Routers e Access Point de Cada Grupo
 
 
