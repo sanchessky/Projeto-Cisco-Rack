@@ -1,8 +1,8 @@
-Autor: Thiago Sanches
-Instagram: https://www.instagram.com/espetacular_sanches
-LinkedIn Thiago Sanches: https://www.linkedin.com/in/thiagosanches07/
-Github: https://github.com/sanchessky
-Data de criação: 04/07/2024
+Autor: Thiago Sanches<br>
+Instagram: https://www.instagram.com/espetacular_sanches<br>
+LinkedIn Thiago Sanches: https://www.linkedin.com/in/thiagosanches07/<br>
+Github: https://github.com/sanchessky<br>
+Data de criação: 04/07/2024<br>
 
 
 
