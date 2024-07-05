@@ -3,7 +3,7 @@ Instagram: https://www.instagram.com/espetacular_sanches<br>
 LinkedIn Thiago Sanches: https://www.linkedin.com/in/thiagosanches07/<br>
 Github: https://github.com/sanchessky<br>
 Data de criação: 04/07/2024<br>
-Atualizado por Thiago Sanches 05/07/2024
+Atualizado por Allan Vítor 05/07/2024
 
 
 
@@ -51,3 +51,8 @@ Determinação do endereço IPv4 da VLAN de SVI e Gateway do Switch Layer 3<br>
 		            Porta: 4    VLAN: 13    Nome: ??Primeiro_Nome_do_Terceiro_Aluno??
 		            Porta: 5    VLAN: 14    Nome: ??Primeiro_Nome_do_Quarto_Aluno??
 		            Porta: 6    VLAN: 15    Nome: wifi01
+
+				Vlan 11 - allan  | 172.16.11.254
+				Vlan 12 - arthur | 172.16.12.254
+				Vlan 13 - eder   | 172.16.13.254
+				Vlan 14 - thiago | 172.16.14.254
