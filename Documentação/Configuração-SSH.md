@@ -1,3 +1,12 @@
+Autor: Thiago Sanches<br>
+Instagram: https://www.instagram.com/espetacular_sanches<br>
+LinkedIn Thiago Sanches: https://www.linkedin.com/in/thiagosanches07/<br>
+Github: https://github.com/sanchessky<br>
+Data de criação: 05/07/2024<br>
+
+
+
+
 Configuração do SSH Server no Switch Cisco Catalyst 3560 <br>
 
 ```python
