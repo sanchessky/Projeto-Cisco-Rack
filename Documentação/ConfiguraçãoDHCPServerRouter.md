@@ -1,3 +1,14 @@
+Autor: Thiago Sanches<br>
+Instagram: https://www.instagram.com/espetacular_sanches<br>
+LinkedIn Thiago Sanches: https://www.linkedin.com/in/thiagosanches07/<br>
+Github: https://github.com/sanchessky<br>
+Data de criação: 11/07/2024<br>
+Atualizado: 12/07/2024<br>
+
+Configuração do SSH Server no Router <br>
+
+
+
 ## PRIMEIRA ETAPA: Configuração do DHCP Server no Router Cisco 2911
 
 ```python
