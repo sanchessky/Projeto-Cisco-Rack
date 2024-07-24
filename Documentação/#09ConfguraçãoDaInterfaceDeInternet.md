@@ -1,6 +1,6 @@
 Autor: Allan Vítor<br>
 Instagram: https://www.instagram.com/allankkjjj<br>
-LinkedIn Allan Vítor: https://www.linkedin.com/in/HubOpsVitor/<br>
+LinkedIn Allan Vítor: [https://www.linkedin.com/in/HubOpsVitor/](https://br.linkedin.com/in/allan-v%C3%ADtor-siqueira-silva-8249802b2)<br>
 Github: https://github.com/HubOpsVitor<br>
 Data de criação: 24/07/2024<br>
 
