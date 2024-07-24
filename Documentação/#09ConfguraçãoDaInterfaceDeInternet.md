@@ -1,3 +1,9 @@
+Autor: Allan Vítor<br>
+Instagram: https://www.instagram.com/allankkjjj<br>
+LinkedIn Allan Vítor: https://www.linkedin.com/in/HubOpsVitor/<br>
+Github: https://github.com/HubOpsVitor<br>
+Data de criação: 24/07/2024<br>
+
 ```python
 !Acessando o modo Exec Privilegiado
 enable
