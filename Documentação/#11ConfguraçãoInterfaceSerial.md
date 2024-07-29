@@ -38,12 +38,12 @@ enable
 		!Descrição da Interface
 		!OBSERVAÇÃO IMPORTANTE: veja o arquivo 00-DocumentacaoDaRede.txt a partir da linha: 232
 		!(SÉTIMA ETAPA: Determinação da Interface Serial de WAN dos Grupos e seu Endereçamento IPv4)
-		description Interface Serial do Grupo-02 para Grupo-01
+		description Interface Serial do Grupo-06 para Grupo-01
 		
 		!Configuração do endereçamento IP
 		!Verificar a tabela de endereçamento IP dos Grupos
 		!Sempre vai ser o Endereço IPv4 PAR na Interface Serial 0/0/1
-		ip address 192.168.1.2 255.255.255.252
+		ip address 192.168.1.22 255.255.255.252
 		
 		!Configurando a Largura de Banda
 		bandwidth 64
