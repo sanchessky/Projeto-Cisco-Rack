@@ -1,3 +1,9 @@
+Autor: Allan Vítor<br>
+Instagram: https://www.instagram.com/allankkjjj<br>
+LinkedIn Allan Vítor: [https://www.linkedin.com/in/HubOpsVitor/](https://br.linkedin.com/in/allan-v%C3%ADtor-siqueira-silva-8249802b2)<br>
+Github: https://github.com/HubOpsVitor<br>
+Data de criação: 29/07/2024<br>
+
 ## PRIMEIRA ETAPA: Configuração da Interface Serial no Router Cisco 2911
 
 ```python
