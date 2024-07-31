@@ -1,3 +1,15 @@
+Autor: Thiago Sanches<BR>
+Instagram: https://www.instagram.com/espetacular_sanches<BR>
+LinkedIn Thiago Sanches: https://www.linkedin.com/in/thiagosanches07/<BR>
+Github: https://github.com/sanchessky<BR>
+Data de criação: 31/07/2024<BR>
+
+
+
+
+
+
+
 ## Configuração dos Access Point
 
 1-Procedimento de Reset dos Routers e Access Point D-Link, TP-Link ou Linksys
